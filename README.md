@@ -11,19 +11,22 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working in `Iopex Technologies` as `System Engineer-NOC`
-
-- 👯 I’m looking forward to collaborate on open source projects.
-
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/Kittorushi)**
-
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
-
-- 😄 Pronouns: He/Him/We
-
 - ⚡ Coding fact: "There are over 700 different programming languages".
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
+- 👨‍💻 Passionate and innovative individual seeking challenging roles in Blockchain and Web3.
+
+🔗 Blockchain Developer | 💻 Full-Stack Developer | 🌎 Web3 Enthusiast
+
+🎓 George Brown College (Casa Loma Campus, Toronto) Blockchain Development, 2023
+
+💼 Full-stack Developer at Code Ready, Toronto, Ontario, Canada, August 2022 - Present
+
+🏆 Certifications: React Developer | IBM Blockchain Essentials | Docker Developer
+
+💻 Technical Skills: Python | Hadoop | Django | MySQL | Java | JavaScript | React Native
+
+🚀 Projects: Developed a dApp for tracking and verifying luxury goods using Blockchain technology | Integrated payment gateways for seamless transactions | Created personalized content applications using Geo Location and QR code scanning | Used MVVM architecture and Google Analytics to create scalable and maintainable codebases.
 
 <br>
 
