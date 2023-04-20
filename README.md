@@ -11,22 +11,19 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- ⚡ Coding fact: "There are over 700 different programming languages".
-
-- 💪🏼 Fav Quote: "Great Developers never stop learning".
 - 👨‍💻 Passionate and innovative individual seeking challenging roles in Blockchain and Web3.
 
-🔗 Blockchain Developer | 💻 Full-Stack Developer | 🌎 Web3 Enthusiast
+- 🔗 Blockchain Developer | 💻 Full-Stack Developer | 🌎 Web3 Enthusiast
 
-🎓 George Brown College (Casa Loma Campus, Toronto) Blockchain Development, 2023
+- 🎓 George Brown College (Casa Loma Campus, Toronto) Blockchain Development, 2023
 
-💼 Full-stack Developer at Code Ready, Toronto, Ontario, Canada, August 2022 - Present
+- 💼 Full-stack Developer at Code Ready, Toronto, Ontario, Canada, August 2022 - Present
 
-🏆 Certifications: React Developer | IBM Blockchain Essentials | Docker Developer
+- 🏆 Certifications: React Developer | IBM Blockchain Essentials | Docker Developer
 
-💻 Technical Skills: Python | Hadoop | Django | MySQL | Java | JavaScript | React Native
+- 💻 Technical Skills: Python | Hadoop | Django | MySQL | Java | JavaScript | React Native
 
-🚀 Projects: Developed a dApp for tracking and verifying luxury goods using Blockchain technology | Integrated payment gateways for seamless transactions | Created personalized content applications using Geo Location and QR code scanning | Used MVVM architecture and Google Analytics to create scalable and maintainable codebases.
+- 🚀 Projects: Developed a dApp for tracking and verifying luxury goods using Blockchain technology | Integrated payment gateways for seamless transactions | Created personalized content applications using Geo Location and QR code scanning | Used MVVM architecture and Google Analytics to create scalable and maintainable codebases.
 
 <br>
 
