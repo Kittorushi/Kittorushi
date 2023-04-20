@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi Geeks, I'm Rushikesh <img src="https://giphy.com/stickers/trippy-hand-shiny-ekeXXN8CG7xEavr6rP" width="35"></h1>
+<h1 align="center">Hi Geeks, I'm Rushikesh <img src="https://media3.giphy.com/media/ekeXXN8CG7xEavr6rP/giphy.gif?cid=ecf05e470kwfkruveneti696arilu2dw6fves2jr32kra757&rid=giphy.gif&ct=s" width="35"></h1>
 
 <div align="center">
   
