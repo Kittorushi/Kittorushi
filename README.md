@@ -49,7 +49,8 @@
 
     
 - ☁️ Cloud:
-   ![Hadoop](https://img.shields.io/badge/Hadoop-%23F37733.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white)
+  
+  ![Hadoop](https://img.shields.io/badge/Hadoop-%23F37733.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white)
   ![Phpmyadmin](https://img.shields.io/badge/phpMyAdmin-%2300BFFF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
   ![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=Apache%20Hive&logoColor=black)
   ![Hue](https://img.shields.io/badge/Hue-%23FF7E5A.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white)
