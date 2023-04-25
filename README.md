@@ -49,17 +49,7 @@
 
     
 - ☁️ Cloud:
-
-<!--     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-    ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-      ![Heroku](https://img.shields.io/badge/Heroku-%234285F4.svg?style=for-the-badge&logo=heroku&logoColor=white)
-      ![Netlify](https://img.shields.io/badge/Netlify-%234285F4.svg?style=for-the-badge&logo=netlify&logoColor=white)
-      ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-      ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-      ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) -->
-
-  ![Hadoop](https://img.shields.io/badge/Hadoop-%23F37733.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white)
+   ![Hadoop](https://img.shields.io/badge/Hadoop-%23F37733.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white)
   ![Phpmyadmin](https://img.shields.io/badge/phpMyAdmin-%2300BFFF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
   ![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=Apache%20Hive&logoColor=black)
   ![Hue](https://img.shields.io/badge/Hue-%23FF7E5A.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white)
@@ -72,6 +62,17 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=for-the-badge&logo=amazon%20aws&logoColor=white)
   ![Cloud](https://img.shields.io/badge/Cloud-%2345C3F5.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+<!--     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+    ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+      ![Heroku](https://img.shields.io/badge/Heroku-%234285F4.svg?style=for-the-badge&logo=heroku&logoColor=white)
+      ![Netlify](https://img.shields.io/badge/Netlify-%234285F4.svg?style=for-the-badge&logo=netlify&logoColor=white)
+      ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+      ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+      ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) -->
+
+
 
     
   
