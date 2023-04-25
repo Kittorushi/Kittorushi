@@ -39,11 +39,23 @@
     ![Solidity](https://img.shields.io/badge/solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/kotlin-%23777BB4.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-    ![React](https://img.shields.io/badge/react-%23777BB4.svg?style=for-the-badge&logo=react&logoColor=white)
     ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  
+  
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=2965f1)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=e44d26)
+![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
+![Solidity](https://img.shields.io/badge/solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white&color=bdbdbd)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&color=7d7d7d)
+![Kotlin](https://img.shields.io/badge/kotlin-%23777BB4.svg?style=for-the-badge&logo=kotlin&logoColor=white&color=4a90e2)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232a)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232a)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=3776ab)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4eAA25)
+
     
 - ☁️ Cloud:
 
