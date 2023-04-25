@@ -80,16 +80,28 @@
     
 - ♾️ DevOps:
 
-    ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-    ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-    ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-    ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
+  ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-%233776AB.svg?style=for-the-badge&logo=GitLab&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
+  ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=Terraform&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+  ![Splunk](https://img.shields.io/badge/Splunk-%23F27F17.svg?style=for-the-badge&logo=Splunk&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=Jira&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-%230A0FFF.svg?style=for-the-badge&logo=Trello&logoColor=white)
+  ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
+  ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-%236DB33F.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+  ![Zoom](https://img.shields.io/badge/Zoom-%232D8CFF.svg?style=for-the-badge&logo=Zoom&logoColor=white)
+  ![Google Meet](https://img.shields.io/badge/Google%20Meet-%234285F4.svg?style=for-the-badge&logo=Google%20Meet&logoColor=white)
+  ![AWS CodeDeploy](https://img.shields.io/badge/AWS%20CodeDeploy-%23FF9900.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+  ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+  ![Google Cloud Build](https://img.shields.io/badge/Google%20Cloud%20Build-%23000000.svg?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
     
 - 💾 Databases:
 
