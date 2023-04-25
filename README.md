@@ -40,6 +40,8 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/kotlin-%23777BB4.svg?style=for-the-badge&logo=kotlin&logoColor=white)
     ![React](https://img.shields.io/badge/react-%23777BB4.svg?style=for-the-badge&logo=react&logoColor=white)
+    ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
     
@@ -48,6 +50,11 @@
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
     ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
     ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+      ![Heroku](https://img.shields.io/badge/Heroku-%234285F4.svg?style=for-the-badge&logo=heroku&logoColor=white)
+      ![Netlify](https://img.shields.io/badge/Netlify-%234285F4.svg?style=for-the-badge&logo=netlify&logoColor=white)
+      ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+      ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  
     
 - ♾️ DevOps:
 
