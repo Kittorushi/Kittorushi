@@ -138,13 +138,20 @@
     
 - 💻 IDEs/Editors:
 
+    ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
     ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
     ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-    ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-    ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-    ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+    ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+    ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+    ![Xcode](https://img.shields.io/badge/Xcode-007ACC.svg?style=for-the-badge&logo=xcode&logoColor=white)
+    ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
+    ![Atom](https://img.shields.io/badge/Atom-66595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+    ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+    ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-FFFFFF.svg?style=for-the-badge&logo=codeblocks&logoColor=black)
+    ![Remix](https://img.shields.io/badge/Remix%20IDE-8A2BE2.svg?style=for-the-badge&logo=remix&logoColor=white)
+
     
 - 🥅 Others:
 
