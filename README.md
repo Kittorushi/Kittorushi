@@ -149,7 +149,7 @@
     ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
     ![Atom](https://img.shields.io/badge/Atom-66595C.svg?style=for-the-badge&logo=atom&logoColor=white)
     ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-    ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-FFFFFF.svg?style=for-the-badge&logo=codeblocks&logoColor=black)
+    ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-2B2B2B.svg?style=for-the-badge&logo=codeblocks&logoColor=white)
     ![Remix](https://img.shields.io/badge/Remix%20IDE-8A2BE2.svg?style=for-the-badge&logo=remix&logoColor=white)
 
     
