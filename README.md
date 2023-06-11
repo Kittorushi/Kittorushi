@@ -218,7 +218,7 @@
 Credits: [Rushikesh Chavan](https://github.com/Kittorushi)
 Last Edited on: 20/04/2023
   
- ### [https://kittorushi.github.io/RushiChavan/](https://rushichavan-dev.github.io/RushiChavan/)
+ ### [https://rushichavan-dev.github.io/RushiChavan/](https://rushichavan-dev.github.io/RushiChavan/)
 
 
 
