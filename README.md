@@ -1,5 +1,5 @@
 ### 
-<h1 align="center">Hi there 👋, I'm Rushikesh <img src="https://media3.giphy.com/media/ekeXXN8CG7xEavr6rP/giphy.gif?cid=ecf05e470kwfkruveneti696arilu2dw6fves2jr32kra757&rid=giphy.gif&ct=s" width="35"></h1>
+<h1 align="center">Hi there , I'm Rushi 👋 </h1>
 
 <div align="center">
   
