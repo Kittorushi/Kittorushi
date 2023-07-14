@@ -217,10 +217,13 @@
 -----
 Credits: [Rushikesh Chavan](https://github.com/Kittorushi)
 Last Edited on: 20/04/2023
-  
+
+  <!--
  ### [https://rushichavan-dev.github.io/RushiChavan/](https://rushichavan-dev.github.io/RushiChavan/)
+ -->
 
 
+ ### [https://rushichavan-dev.github.io/rushi/](https://rushichavan-dev.github.io/rushi/)
 
 <!--
 **Kittorushi/Kittorushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
