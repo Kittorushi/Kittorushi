@@ -211,7 +211,7 @@
   
 
 -----
-Credits: [Rushikesh Chavan](https://github.com/Kittorushi)
+Credits: [Rushi Chavan](https://github.com/RushiChavan-dev)
 Last Edited on: 20/04/2023
 
   <!--
