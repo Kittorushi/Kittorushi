@@ -135,7 +135,10 @@
     
 - 💾 Databases:
 
-    ![RoomDB Badge](https://img.shields.io/badge/RoomDB-Database-blue.svg) 
+
+
+[![RoomDB Badge](https://img.shields.io/badge/RoomDB-Database-blue.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://developer.android.com/topic/libraries/architecture/room)
+
     ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
     ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
