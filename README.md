@@ -1,11 +1,29 @@
 ### 
 <h1 align="center">Hi there , I'm Rushi 👋 </h1>
 
+
+
+<p align="center">
+
+- 📋 Languages:
+
+  ![Kotlin](https://img.shields.io/badge/kotlin-%23777BB4.svg?style=for-the-badge&logo=kotlin&logoColor=white&color=4a90e2)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232a)
+  ![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=3776ab)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=2965f1)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=e44d26)
+
+
+</p>
+<!--
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
 
 </div>
+
+-->
 
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
