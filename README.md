@@ -53,7 +53,8 @@
 <!--   ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white) -->
 <!--   ![Google Cloud (GCP)](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) -->
 <!--   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) -->
-       ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=for-the-badge&logo=amazon%20aws&logoColor=white)
+<!--   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) -->
+  ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=for-the-badge&logo=amazon%20aws&logoColor=white)
 <!--   ![Cloud](https://img.shields.io/badge/Cloud-%2345C3F5.svg?style=for-the-badge&logo=oracle&logoColor=white) -->
 
 <!--     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
