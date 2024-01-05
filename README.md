@@ -46,8 +46,6 @@
     
 - ☁️ Cloud:
 
-  ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
-  ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-%233776AB.svg?style=for-the-badge&logo=GitLab&logoColor=white)
   ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=for-the-badge&logo=amazon%20aws&logoColor=white)
 
 
