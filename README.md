@@ -38,10 +38,23 @@
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&color=7d7d7d)
   ![Solidity](https://img.shields.io/badge/solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white&color=bdbdbd)
   ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232a) -->
+
+
+
+
+
     
 - ☁️ Cloud:
+
+  ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
+  ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-%233776AB.svg?style=for-the-badge&logo=GitLab&logoColor=white)
   ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=for-the-badge&logo=amazon%20aws&logoColor=white)
-  ![Hadoop](https://img.shields.io/badge/Hadoop-%23F37733.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white) 
+
+
+<!--
+- :
+  
+  ![Hadoop](https://img.shields.io/badge/Hadoop-%23F37733.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white) -->
 <!--   ![Phpmyadmin](https://img.shields.io/badge/phpMyAdmin-%2300BFFF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white) -->
 <!--   ![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=Apache%20Hive&logoColor=black) -->
 <!--   ![Hue](https://img.shields.io/badge/Hue-%23FF7E5A.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white) -->
