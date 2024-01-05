@@ -16,6 +16,8 @@
 
 
 </p>
+
+
 <!--
 <div align="center">
   
@@ -43,6 +45,8 @@
 
 <p align="center">
 
+
+<!--
 - 📋 Languages:
 
   ![Kotlin](https://img.shields.io/badge/kotlin-%23777BB4.svg?style=for-the-badge&logo=kotlin&logoColor=white&color=4a90e2)
@@ -51,6 +55,7 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=3776ab)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=2965f1)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=e44d26)
+  -->
 
 <!--
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&color=7d7d7d)
