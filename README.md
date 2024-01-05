@@ -11,10 +11,10 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 👨‍💻 Passionate and innovative individual helping organization to get decentralized.
+- 👨‍💻 Passionate and innovative individual helping organization to solve problem.
 
-- 🔗 Blockchain Developer | 💻 Full-Stack Developer | 🌎 Web3 Enthusiast
-
+-  <p style="font-size: 24px; color: #333;">&#xe859;</p>    Android Engineer |🔗 Blockchain Developer | 🌎 Web3 Enthusiast
+ 
 - 🎓 George Brown College (Casa Loma Campus, Toronto) Blockchain Development, 2023
 
 - 🏆 Certifications: React Developer | IBM Blockchain Essentials | Docker Developer
