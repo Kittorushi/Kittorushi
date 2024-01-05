@@ -13,13 +13,11 @@
 
 - 👨‍💻 Passionate and innovative individual helping organization to solve problem.
 
--  <p style="font-size: 24px; color: #333;">&#xe859;</p>    Android Engineer |🔗 Blockchain Developer | 🌎 Web3 Enthusiast
- 
-- 🎓 George Brown College (Casa Loma Campus, Toronto) Blockchain Development, 2023
+- 🤖 Android Engineer |🔗 Blockchain Developer | 🌎 Web3 Enthusiast
 
-- 🏆 Certifications: React Developer | IBM Blockchain Essentials | Docker Developer
+- 🏆 Certifications: Android Security  | Android Best Pratices | Andriod Compose UI
 
-- 💻 Technical Skills: Python | Hadoop | Django | MySQL | Java | JavaScript | React Native
+- 💻 Technical Skills: Kotlin | Android | Java | JavaScript | React Native
 
 <br>
 
@@ -28,37 +26,35 @@
 <p align="center">
 
 - 📋 Languages:
-  
+
+  ![Kotlin](https://img.shields.io/badge/kotlin-%23777BB4.svg?style=for-the-badge&logo=kotlin&logoColor=white&color=4a90e2)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=2965f1)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=e44d26)
   ![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
-  ![Solidity](https://img.shields.io/badge/solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white&color=bdbdbd)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&color=7d7d7d)
-  ![Kotlin](https://img.shields.io/badge/kotlin-%23777BB4.svg?style=for-the-badge&logo=kotlin&logoColor=white&color=4a90e2)
   ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232a)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232a)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=3776ab)
-  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4eAA25)
-    
+  ![Solidity](https://img.shields.io/badge/solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white&color=bdbdbd)
 
 
 
     
 - ☁️ Cloud:
   
-  ![Hadoop](https://img.shields.io/badge/Hadoop-%23F37733.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white)
-  ![Phpmyadmin](https://img.shields.io/badge/phpMyAdmin-%2300BFFF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
-  ![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=Apache%20Hive&logoColor=black)
-  ![Hue](https://img.shields.io/badge/Hue-%23FF7E5A.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white)
-  ![Godaddy](https://img.shields.io/badge/GoDaddy-%230075FF.svg?style=for-the-badge&logo=GoDaddy&logoColor=white)
-  ![AzureVM](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=Netlify&logoColor=#00C7B7)
-  ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-  ![Google Cloud (GCP)](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!--   ![Hadoop](https://img.shields.io/badge/Hadoop-%23F37733.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white) -->
+<!--   ![Phpmyadmin](https://img.shields.io/badge/phpMyAdmin-%2300BFFF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white) -->
+<!--   ![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=Apache%20Hive&logoColor=black) -->
+<!--   ![Hue](https://img.shields.io/badge/Hue-%23FF7E5A.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white) -->
+<!--   ![Godaddy](https://img.shields.io/badge/GoDaddy-%230075FF.svg?style=for-the-badge&logo=GoDaddy&logoColor=white) -->
+<!--   ![AzureVM](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) -->
+<!--   ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=Netlify&logoColor=#00C7B7) -->
+<!--   ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=Heroku&logoColor=white) -->
+  <!-- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white) -->
+ <!--  ![Google Cloud (GCP)](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) -->
+<!--   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) -->
   ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=for-the-badge&logo=amazon%20aws&logoColor=white)
-  ![Cloud](https://img.shields.io/badge/Cloud-%2345C3F5.svg?style=for-the-badge&logo=oracle&logoColor=white)
+<!--    ![Cloud](https://img.shields.io/badge/Cloud-%2345C3F5.svg?style=for-the-badge&logo=oracle&logoColor=white) -->
 
 <!--     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
     ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
