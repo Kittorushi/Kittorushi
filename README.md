@@ -40,7 +40,7 @@
   ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232a) -->
     
 - ☁️ Cloud:
-  
+  ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=for-the-badge&logo=amazon%20aws&logoColor=white)
 <!--   ![Hadoop](https://img.shields.io/badge/Hadoop-%23F37733.svg?style=for-the-badge&logo=Apache%20Hadoop&logoColor=white) -->
 <!--   ![Phpmyadmin](https://img.shields.io/badge/phpMyAdmin-%2300BFFF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white) -->
 <!--   ![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=Apache%20Hive&logoColor=black) -->
@@ -53,7 +53,7 @@
 <!--   ![Google Cloud (GCP)](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) -->
 <!--   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) -->
 <!--   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) -->
-  ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=for-the-badge&logo=amazon%20aws&logoColor=white)
+
 <!--   ![Cloud](https://img.shields.io/badge/Cloud-%2345C3F5.svg?style=for-the-badge&logo=oracle&logoColor=white) -->
 
 <!--     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
